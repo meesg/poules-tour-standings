@@ -1,0 +1,15 @@
+{
+  "name": "poules-tour-standings",
+  "version": "0.0.1",
+  "description": "Provisional standings for tour de france 2019 poules on poules.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mees Gribnau",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.18.1",
+    "request": "^2.88.0"
+  }
+}
